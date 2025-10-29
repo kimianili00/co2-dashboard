@@ -43,8 +43,8 @@ pip install -r requirements.txt
 shiny run --host 0.0.0.0 --port 8000 app.py
 
 ```
-
 Open 👉  [http://localhost:8000](http://localhost:8000) in your browser .
+
 ---
 
 ## 🐳 Quickstart (Docker):
