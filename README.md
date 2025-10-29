@@ -43,6 +43,8 @@ docker build -t co2-dashboard .
 docker run -p 8000:8000 co2-dashboard
 Then open http://localhost:8000
 
+```
+
 What it does:
 -Downloads CO₂ dataset from Our World in Data  (cached).
 
@@ -55,13 +57,13 @@ Provides:
 -World choropleth map per selected year.
 
 What I learned :
-How to clean and validate real-world CSV files (missing and malformed rows).
+-How to clean and validate real-world CSV files (missing and malformed rows).
 
-How to use Plotly to build interactive charts and export them as HTML.
+-How to use Plotly to build interactive charts and export them as HTML.
 
-Basics of Shiny for Python reactivity and layout.
+-Basics of Shiny for Python reactivity and layout.
 
-Dockerizing a small Python app and thinking a bit about image size and caching.
+-Dockerizing a small Python app and thinking a bit about image size and caching.
 
 At first my Docker build failed because I forgot to copy the data file — that helped me learn about Docker context.”
 
