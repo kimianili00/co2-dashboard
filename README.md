@@ -59,7 +59,7 @@ docker run -p 8000:8000 co2-dashboard
 
 ## 📊 What it does:
 
--Downloads CO₂ dataset from *Our World in Data *.
+-Downloads CO₂ dataset from **Our World in Data**.
 
 -Cleans and validates columns used in the dashboard.
 
