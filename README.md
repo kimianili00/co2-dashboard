@@ -71,7 +71,9 @@ docker run -p 8000:8000 co2-dashboard
 
 ---
 
-##🧠 Project Structure
+
+## 🧠 Project Structure
+
 
 ```bash
 co2-dashboard/
@@ -133,7 +135,8 @@ co2-dashboard/
 
 ---
 
-##🗒️ Design notes:
+
+## 🗒️ Design notes:
 
 I intentionally kept some print() statements for debugging and demonstration purposes.
 
