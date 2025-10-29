@@ -9,7 +9,9 @@ but it demonstrates basic ETL, interactive visualization, and simple containeriz
 
 ---
 
-![Dashboard Screenshot](assets/screenshot.png)[Dashboard Screenshot page 2](assets/screenshot2.png)
+![Dashboard overview](assets/dashboard_view.png)
+
+![Country time series tab](assets/country_plot.png)
 
 ## Quickstart (local)
 
